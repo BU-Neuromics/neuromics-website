@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: Neuromics
+subtitle: Labadorf Lab
+description: Neuromics Lab @ BU
+header: images/brain_header.jpg
+footer: images/brain_header.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: labadorf@bu.edu 
+  orcid: 0000-0002-0753-8992
+  google-scholar: Qsa6c-sAAAAJ
+  github: BU-Neuromics
 
 ### jekyll settings
 
